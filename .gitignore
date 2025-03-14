@@ -1,4 +1,9 @@
 *.zip
-*.code_workspace
+*.code-workspace
+*.vscode
+.vscode/*
+/include
+/lib
+./Linux_sfml3/src/Makefile
 Makefile
 
