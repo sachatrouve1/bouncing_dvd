@@ -5,7 +5,7 @@ famous bouncing dvd (in C++)
 ---
 
 __Commands:__
-  • `Escape`:Fancy noise mode
-  • `F1`: Speed mode
-  • `F2`: Flute mode
-  • `Delete`: Quit
+- `Escape`:Fancy noise mode
+- `F1`: Speed mode
+- `F2`: Flute mode
+- `Delete`: Quit
